@@ -6,7 +6,7 @@ About the Project: The goal is to successfully create a model capable of classif
 The problem was approached in 3 ways:
   + Simple CNN model with customizations
   + CNN incorporated with a pre-trained model (which was customized and fine-tuned), namely VGG16 and VGG19 
-  + Fine-grained image classification approach: Fine-tuned BiT-L (Resnet) model by Google
+  + Fine-grained image classification approach: Fine-tune Google's BiT-L (Resnet) model
 
 This github contents: There are 3 models and 1 demonstration included. 
 + The Models are useful in examining the code while the Demonstration offers an easy way for everyone to interact with the best model built. 
